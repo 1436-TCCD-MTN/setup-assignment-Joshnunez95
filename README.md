@@ -1,4 +1,4 @@
-# :wave: The Basics of Git and GitHub 
+# :wave: Hello! The Basics of Git and GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
